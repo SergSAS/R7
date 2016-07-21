@@ -1,6 +1,3 @@
 kjkjdhfkjdhfkjsdhfkj
 fgfdkgjdfkjg
 flkghdflkgh
-
-
-print (How do you do)
